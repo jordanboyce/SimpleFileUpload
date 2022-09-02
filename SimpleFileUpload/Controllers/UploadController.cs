@@ -8,7 +8,7 @@ namespace SimpleFileUpload.Controllers
     public class UploadController : ControllerBase
     {
 
-        // POST: api/Solve
+        // POST: api/UploadFile
         [HttpPost]
         public async Task<IActionResult> UploadFile(IFormFile file)
         {
