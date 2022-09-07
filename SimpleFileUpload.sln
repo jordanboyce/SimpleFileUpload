@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFileUpload", "SimpleFileUpload\SimpleFileUpload.csproj", "{E465470E-4E66-4A61-A8BC-EC2D515DCEEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFileUpload", "SimpleFileUpload\SimpleFileUpload.csproj", "{E465470E-4E66-4A61-A8BC-EC2D515DCEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolTest_DotNetFramework", "ConsolTest_DotNetFramework\ConsolTest_DotNetFramework.csproj", "{27343EF5-4628-4827-A843-F5548DB2E36A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E465470E-4E66-4A61-A8BC-EC2D515DCEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E465470E-4E66-4A61-A8BC-EC2D515DCEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E465470E-4E66-4A61-A8BC-EC2D515DCEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27343EF5-4628-4827-A843-F5548DB2E36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27343EF5-4628-4827-A843-F5548DB2E36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27343EF5-4628-4827-A843-F5548DB2E36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27343EF5-4628-4827-A843-F5548DB2E36A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
